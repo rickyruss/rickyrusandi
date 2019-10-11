@@ -13,7 +13,7 @@ sehingga anda dapat melihat kembali setiap perubahanya.
 6.Lalu buat file README.md dengan command “echo “# Latihan1” > README.md
 7.Setelah itu isi file README.md dengan tugas yang sudah diberikan dengan command “nano README.md”
 8.Langkah selanjutnya adalah mengkomit file dengan command “git commit -m “isi commit”. Git commit untuk menambahk keterangan/status perubahaan saat upload ke repo online.
-9.Lalu meremot repositori yang sudah dibuat di github dengan command “git remote add origin https://github.com/VenoSW/Latihan1a.git (bisa diganti link repositori anda sendiri”.
+9.Lalu meremot repositori yang sudah dibuat di github dengan command “git remote add origin https://github.com/rickyrusandi/Latihan1.git (bisa diganti link repositori anda sendiri”.
 10.Lalu upload file README.md ke repositori online dengan command “git push -u origin master”
 11.Kemudian command “git pull origin master”. Git pull untuk mengambil commit terbaru lalu otomatis menggaubungkan (merge) dengan branch yang aktif.
 12.Terakhir mengecek file yang README.md yang sudah diupload dengan command “ll”
